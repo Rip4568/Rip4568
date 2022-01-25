@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá você 👋
 
-<!--
-**Rip4568/Rip4568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Primeiramente desejo boas vindos a minha pagina do github 📓, abaixo esta algumas informações sobre mim e oque estou fazendo🤔/estudando📚/trabalhando✍ atualmente.
+Tenha um otimo dia 🌞
 
-Here are some ideas to get you started:
+<img src="https://blog.cobasi.com.br/wp-content/webpc-passthru.php?src=https://blog.cobasi.com.br/wp-content/uploads/2020/07/castrac%CC%A7a%CC%83o-de-cachorro-capa.png&nocache=1" style="max-height:50px" height="180em">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Eu estou atualmente trabalhando com Python, Django e React
+- 🌱 Estudando FrontEnd e Django
+- 👯 Quero colaborar com Django
+- 📫 Para entrar em contato comigo basta mandar um email: jhone.test14@gmail.com  
+- 📰 Caso precise de alguma conta social me siga no <a href="https://www.linkedin.com/in/jonathas-david-59334721b/" target="_blank" >linkedin</a>
+- 😄 Pronouns: Ele/Dele
