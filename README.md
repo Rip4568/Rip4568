@@ -11,3 +11,4 @@ Tenha um otimo dia 🌞
 - 📫 Para entrar em contato comigo basta mandar um email: jhone.test14@gmail.com  
 - 📰 Caso precise de alguma conta social me siga no <a href="https://www.linkedin.com/in/jonathas-david-59334721b/" target="_blank" >linkedin</a>
 - 😄 Pronouns: Ele/Dele
+
