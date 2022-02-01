@@ -3,7 +3,7 @@
 Primeiramente desejo boas vindos a minha pagina do github 📓, abaixo esta algumas informações sobre mim e oque estou fazendo🤔/estudando📚/trabalhando✍ atualmente.
 Tenha um otimo dia 🌞
 
-<img src="https://blog.cobasi.com.br/wp-content/webpc-passthru.php?src=https://blog.cobasi.com.br/wp-content/uploads/2020/07/castrac%CC%A7a%CC%83o-de-cachorro-capa.png&nocache=1" style="max-height:50px" height="180em">
+<img src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png" style="max-height:50px" height="180em">
 
 - 🔭 Eu estou atualmente trabalhando com Python, Django e React
 - 🌱 Estudando FrontEnd e Django
