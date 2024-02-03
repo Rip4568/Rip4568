@@ -1,8 +1,8 @@
 ## Sobre mim
-* :desktop_computer: Full-Stack Developer & Educator at EBAC | Python Expert | Content Creator | AI & Backend Development :robot:
-* :leaves: Educated in Systems Development, Automations, and Artificial Intelligence
-* :amphora: CEO Vision/Nexus
-* :mailbox: For more information, connect with me on <a href="https://www.linkedin.com/in/jhonatan-eduardo-08a85b19a/" target="_blank">linkedIn</a> or contact me by  <a href="mailto: coalav75@gmail.com"> email</a>
+* :desktop_computer: Back-end Developer & Developer WEB and automation | Python Expert  | Backend Development :robot:
+* :leaves: developments and  Automations
+* :amphora: Founder GoLembrar project <a href='https://github.com/GoLembrar/' target="_blank">GoLembrar</a>
+* :mailbox: For more information, connect with me on <a href="https://www.linkedin.com/in/jonathas-david-59334721b" target="_blank">linkedIn</a> or contact me by  <a href="mailto: jhone.test14@gmail.com">email</a>
 
 <br>
 <div>
