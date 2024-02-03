@@ -7,8 +7,8 @@
 <br>
 <div>
   
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=CodeAkinori&show_icons=true&theme=transparent"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAkinori&show_icons=true&theme=transparent&layout=compact"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Rip4568&show_icons=true&theme=transparent"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rip4568&show_icons=true&theme=transparent&layout=compact"/>
 </div>
 <br>
 
@@ -258,14 +258,14 @@
 <br>
 <br>
   <h1 align="center">Social</h1>
-  <a href="mailto: coalav75@gmail.com">
+  <a href="mailto: jhone.test14@gmail.com">
 	<img
 			align="center"
 			height="50"
 			src="https://user-images.githubusercontent.com/103611470/212475905-d14fd4fa-4ea5-41a4-a161-12c1cd42e277.png" />
 	</a>
 	<a
-		href="https://www.linkedin.com/in/jhonatan-eduardo-08a85b19a/"
+		href="https://www.linkedin.com/in/jonathas-david-59334721b/"
 		target="_blank"
 		rel="noopener noreferrer">
 		<img
